@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-651uctmo"",
-  ""goal"": ""metrics summarizer for audit trails"",
-  ""language"": ""go"",
-  ""template"": ""go-cli""
+    "name":  "specproj-651uctmo",
+    "goal":  "metrics summarizer for audit trails",
+    "language":  "go",
+    "template":  "go-cli"
 }
